@@ -1,0 +1,6 @@
+{
+  "name": "TerraIstmo DMC — Panamá & Colombia Marketplace Turístico Multidestino",
+  "description": "Plataforma B2B/B2C DMC y Marketplace multidestino para Panamá y Colombia. Cotizador dinámico USD/COP, constructor visual de itinerarios, catálogo de experiencias, gestión operativa y concierge IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

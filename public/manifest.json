@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "TerraIstmo DMC — Panamá & Colombia",
+  "short_name": "TerraIstmo",
+  "description": "Marketplace y DMC Multidestino para experiencias combinadas en Panamá y Colombia con cotizador multidivisa USD/COP y constructor de itinerarios.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["travel", "business", "lifestyle"]
+}
